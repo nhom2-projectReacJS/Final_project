@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "id": "b483",
+      "email": "admin@gmail.com",
+      "password": "$2a$10$mQd7niiMBs.7uVwYmf6y4ehq11AqM3zQwv7W9WrWVQTUxiylr4bs6",
+      "role": "ADMIN"
+    },
+    {
+      "id": "ec82",
+      "email": "use1@gmail.com",
+      "password": "$2a$10$QDABMURjT16ZsQ1rjiiKN.RUpAGxU0kjcK5G1kaVz8NPZp2b5pRpa",
+      "username": "Nguyễn Khắc Tráng",
+      "dob": "2024-11-06",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/hotel-app-cee07.appspot.com/o/avatars%2Fadd.jpg?alt=media&token=eb46a8b3-530e-4a63-9f67-ee8c0f42ccfe"
+    },
+    {
+      "id": "f512",
+      "email": "admin1@gmail.com",
+      "password": "$2a$10$sgZ/9iJbfI7tWbx.snBn6ujJJX8l1XfpyE88c0IMTc8ZrayQ//2Ky",
+      "role": "ADMIN"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "cover": [
+        "../images/list/p-1.jpg"
+      ],
+      "name": "Red Carpet Real Estate",
+      "location": "Kupondol, Lalitpur",
+      "category": "For Rent",
+      "price": "$37,0000",
+      "type": "Apartment",
+      "createdAt": 1232435880298,
+      "updatedAt": 1732636287818
+    },
+    {
+      "id": "2",
+      "cover": [
+        "../images/list/p-2.jpg"
+      ],
+      "name": "Red Flame Properties",
+      "location": "New Road, Kathmandu",
+      "category": "For Sale",
+      "price": "$45,000",
+      "type": "Condos",
+      "createdAt": 1332435880298
+    },
+    {
+      "id": "3",
+      "cover": [
+        "../images/list/p-7.jpg"
+      ],
+      "name": "The Real Estate Corner",
+      "location": "Thamel, Kathmandu",
+      "category": "For Rent",
+      "price": "$55,000",
+      "type": "Offices",
+      "createdAt": 1432435880298
+    },
+    {
+      "id": "4",
+      "cover": [
+        "../images/list/p-4.jpg"
+      ],
+      "name": "Blue Realty",
+      "location": "Pulchowk, Lalitpur",
+      "category": "For Sale",
+      "price": "$57,000",
+      "type": "Homes & Villas",
+      "createdAt": 1532435880298
+    },
+    {
+      "id": "5",
+      "cover": [
+        "../images/list/p-5.jpg"
+      ],
+      "name": "Brick Lane Realty",
+      "location": "Birtamod, Jhapa",
+      "category": "For Rent",
+      "price": "$15,000",
+      "type": "Commercial",
+      "createdAt": 1632435880298
+    },
+    {
+      "id": "6",
+      "cover": [
+        "../images/list/p-6.jpg"
+      ],
+      "name": "Banyon Tree Realty",
+      "location": "Gairidhara, Kathmandu",
+      "category": "For Sale",
+      "price": "$25,000",
+      "type": "Apartment",
+      "createdAt": 1142435880298
+    },
+    {
+      "id": "ecd4",
+      "name": "Nhà Đẹp",
+      "location": "Hà Nội",
+      "price": "$36,000",
+      "description": "",
+      "category": "For Sale",
+      "type": "Homes & Villas",
+      "cover": [
+        "https://firebasestorage.googleapis.com/v0/b/hotel-app-cee07.appspot.com/o/estates%2Fbds3.jfif?alt=media&token=767952c1-f58a-4c7e-a963-feadedbf8bf0",
+        "https://firebasestorage.googleapis.com/v0/b/hotel-app-cee07.appspot.com/o/estates%2Fbds2.jpg?alt=media&token=1ae659af-11b1-47a7-99d2-f78f879b65f0",
+        "https://firebasestorage.googleapis.com/v0/b/hotel-app-cee07.appspot.com/o/estates%2Fbds1.jpg?alt=media&token=339c621c-a3ff-4107-82de-a52f4191c9af"
+      ],
+      "createdAt": 1732719459865
+    }
+  ]
+}
